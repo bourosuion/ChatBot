@@ -4,12 +4,12 @@ Un'applicazione di chat intelligente che offre un'interfaccia intuitiva per conv
 
 ## Caratteristiche Principali
 
-- 💬 Gestione di conversazioni multiple
-- 🔄 Sistema di sessioni per utenti
-- 🔒 Autenticazione tramite API key
-- 📝 Storico completo delle conversazioni
-- 🤖 Integrazione con modello AI locale
-- 🎯 Supporto per embeddings
+-  Gestione di conversazioni multiple
+-  Sistema di sessioni per utenti
+-  Autenticazione tramite API key
+-  Storico completo delle conversazioni
+-  Integrazione con modello AI locale
+-  Supporto per embeddings
 
 ## Struttura del Backend
 
